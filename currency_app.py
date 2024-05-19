@@ -11,7 +11,7 @@ def exitt():
 
 
 def abt():
-    tkinter.messagebox.showinfo("Brown's dream World", '''Created and designed by Brown, here is the best forum for checking currencies rates.
+    tkinter.messagebox.showinfo("Brown's dynamic World", '''Created and designed by Brown, here is the best forum for checking currencies rates.
 Let's know if you have any new idea or suggestion that can make the forum a more suitable and convenient place for all.\n
                                     Thanks for servicing with us.''')
 
